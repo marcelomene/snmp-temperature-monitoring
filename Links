@@ -1,0 +1,9 @@
+Interface DHT11 DHT22 w/ ESP8266 NodeMCU Using Web Server
+https://lastminuteengineers.com/esp8266-dht11-dht22-web-server-tutorial/
+
+UDP with ESP8266
+https://github.com/esp8266/Arduino/blob/master/doc/esp8266wifi/udp-examples.rst
+
+Agentuino
+https://github.com/1sw/Agentuino
+http://arduinoprojexp.blogspot.com/2014/11/agentuino-zabbix-parte-1-implementacao.html
