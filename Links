@@ -1,6 +1,9 @@
 Interface DHT11 DHT22 w/ ESP8266 NodeMCU Using Web Server
 https://lastminuteengineers.com/esp8266-dht11-dht22-web-server-tutorial/
 
+DHT11 with NodeMCU
+https://roboindia.com/tutorials/dht11-nodemcu-arduino/
+
 UDP with ESP8266
 https://github.com/esp8266/Arduino/blob/master/doc/esp8266wifi/udp-examples.rst
 
