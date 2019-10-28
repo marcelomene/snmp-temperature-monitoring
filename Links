@@ -10,3 +10,7 @@ https://github.com/esp8266/Arduino/blob/master/doc/esp8266wifi/udp-examples.rst
 Agentuino
 https://github.com/1sw/Agentuino
 http://arduinoprojexp.blogspot.com/2014/11/agentuino-zabbix-parte-1-implementacao.html
+https://forum.arduino.cc/index.php?topic=50848.60
+
+SNMP
+https://www.rane.com/note161.html#targetText=An%20SNMP%20PDU%20contains%20the,are%20GetRequest%2C%20GetResponse%2C%20SetRequest.&targetText=An%20Integer%20that%20identifies%20a%20particular%20SNMP%20request.
