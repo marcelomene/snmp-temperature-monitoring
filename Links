@@ -14,3 +14,7 @@ https://forum.arduino.cc/index.php?topic=50848.60
 
 SNMP
 https://www.rane.com/note161.html#targetText=An%20SNMP%20PDU%20contains%20the,are%20GetRequest%2C%20GetResponse%2C%20SetRequest.&targetText=An%20Integer%20that%20identifies%20a%20particular%20SNMP%20request.
+
+Bibliotecas alternativas
+https://github.com/CrientClash/Arduino-Snmp-Agent
+https://github.com/rexpark/Arduino-SNMP
