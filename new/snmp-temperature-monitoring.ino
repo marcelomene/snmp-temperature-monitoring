@@ -30,8 +30,8 @@ int humidity = 0;
 
 /* SNMP OIDs*/
 const char *sysDescr       = "1.3.6.1.2.1.1.1.0";  // read-only  (DisplayString) Done!
-const char *sysUpTime      = "1.3.6.1.2.1.1.2.0";  // read-only  (TimeTicks)     Done!
-const char *sysName        = "1.3.6.1.2.1.1.3.0";  // read-write (DisplayString) Done!
+const char *sysName        = "1.3.6.1.2.1.1.2.0";  // read-write (DisplayString) Done!
+const char *sysUpTime      = "1.3.6.1.2.1.1.3.0";  // read-only  (TimeTicks)     Done!
 const char *sysLocation    = "1.3.6.1.2.1.1.4.0";  // read-write (DisplayString) Done!
 const char *sysTemperature = "1.3.6.1.2.1.1.5.0";  // read-only  (DisplayString) Done!
 const char *sysHumidity    = "1.3.6.1.2.1.1.6.0";  // read-only  (DisplayString) Done!
